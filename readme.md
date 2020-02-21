@@ -1,0 +1,1 @@
+Just run ```/.install.sh```
