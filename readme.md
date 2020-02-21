@@ -1,1 +1,1 @@
-Just run ```/.install.sh```
+Just execute ```/.install.sh```
