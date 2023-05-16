@@ -1,5 +1,7 @@
 This will install a clean WP instance
 
+Also include support for Apple M1/M2 Chips and in general for ARM64v8
+
 Requires Docker
 
 The firts time just run ```./run.sh install```

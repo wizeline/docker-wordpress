@@ -24,7 +24,7 @@ dockerStop(){
 
 install(){
     rm -rf html
-    docker compose rm -s -f
+    docker compose rm -s -f -v
     wpClone
     docker compose up -d
 }
